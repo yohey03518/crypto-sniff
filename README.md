@@ -40,7 +40,3 @@ crypto-sniff/
    ```bash
    pnpm dev
    ```
-
-## Domain Knowledge
-- The application establishes WebSocket connections to multiple cryptocurrency exchanges for real-time price monitoring
-- More details to be added as the project evolves
