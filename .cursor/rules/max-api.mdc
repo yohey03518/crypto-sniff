@@ -1,0 +1,9 @@
+---
+description: API information for the exchange named Max.
+globs: 
+alwaysApply: false
+---
+# Official Document to use WebSocket
+
+[Link](mdc:https:/maicoin.github.io/max-websocket-docs)
+

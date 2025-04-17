@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# General Rules for Knowledges
+- Read [README.md](mdc:README.md) to know what does this project for.
+- When AI finding there is new domain knowledge during user chats with AI, add the knowledge to [README.md](mdc:README.md) if it is good for a project README file. Add the knowledge to below `Domain Knowledge` segement if it is a detailed knowledge.
+
+# Domain Knowledges
+- The app will connect to the websocket between mutliple crypto exchanges to get latest prices.
+
+
