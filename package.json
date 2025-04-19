@@ -15,7 +15,12 @@
   "packageManager": "pnpm@10.6.5",
   "devDependencies": {
     "@types/node": "^20.11.24",
+    "@types/ws": "^8.5.10",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ws": "^8.16.0"
   }
 }

@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Rules for AI generating code
+
+- Generating code only from enough resource. If there is no enough resource to generate, just ask for user providing more information.
